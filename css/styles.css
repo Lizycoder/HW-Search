@@ -21,8 +21,11 @@ font-size: 0px;
  padding: 0;
  }
  .magnifier {
- 	background-image: url("img/magnifier.svg");
+ 	background-image: url("../img/magnifier.svg");
+ 	background-size: 50%;
+ 	background-repeat: no-repeat;
  }
+
  div {
  	display: inline-block;
  	width: 30%;
